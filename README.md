@@ -1,8 +1,8 @@
 # Hi, I'm Valentina 👋
 
-*I'm not a developer — I'm an entrepreneur who transitioned to Product Management, but never stopped building. My repos tend to be prototypes, tools and experiments rather than production-grade open source libraries.*
+I am a Digital Product Manager who builds and launches AI-powered consumer tools as side projects to solve real-world problems.
 
-I'm a Digital Product Manager during the working hours. I also build and launch AI-powered consumer tools and apps as side projects that solve real problems.
+I'm not a developer — I'm an entrepreneur who transitioned to Product Management, but I never stopped building. My repos tend to be prototypes, tools and experiments rather than production-grade open source software.
 
 ---
 
