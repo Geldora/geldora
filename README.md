@@ -10,9 +10,9 @@ I'm a Digital Product Manager during the working hours. I also build and launch 
 
 | Active Projects | What it is | Stack |
 |---|---|---|
-| [StandbyStay](https://standbystay.up.railway.app) | AI Travel Concierge for Standby travellers | Claude, Anthropic API, Node.js |
+| [StandbyStay](https://standbystay.up.railway.app) | AI Travel Concierge for Standby travellers | Claude Code, Anthropic API, Node.js |
 | [Sort My Bin](https://sortmybin.lovable.app) | AI-powered waste sorting assistant for Irish households | Lovable, Google Gemini 2.5 Flash, PWA |
-| [7 Mantra meditation](https://play.google.com/store/apps/details?id=com.chakars.meditation.mantra.chant.healing) | Android meditation app — acquired in 2022 and relaunched in 2026 | Android, Claude Code |
+| [7 Mantra meditation](https://play.google.com/store/apps/details?id=com.chakars.meditation.mantra.chant.healing) | Android meditation app — acquired in 2022 and relaunched in 2026 | Native Android application using Java, Claude Code |
 | Property Toolkit | First-time buyer comparison tool | Google Sheets |
 
 ---
