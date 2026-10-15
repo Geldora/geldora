@@ -1,8 +1,8 @@
 # Hi, I'm Valentina 👋
 
-*I'm not a developer — I'm a solo founder who transitioned to product management, but never stopped building. My repos tend to be prototypes, tools and experiments rather than production-grade open source libraries.*
+*I'm not a developer — I'm an entrepreneur who transitioned to Product Management, but never stopped building. My repos tend to be prototypes, tools and experiments rather than production-grade open source libraries.*
 
-By day I'm a Digital Product Manager. Outside of that I build things: AI-powered consumer tools and apps. I love to build and launch side projects that solve real problems.
+I'm a Digital Product Manager during the working hours. I also build and launch AI-powered consumer tools and apps as side projects that solve real problems.
 
 ---
 
@@ -10,7 +10,7 @@ By day I'm a Digital Product Manager. Outside of that I build things: AI-powered
 
 | Active Projects | What it is | Stack |
 |---|---|---|
-| [StandbyStay](https://standbystay.up.railway.app) | AI Travel Concirge for Standby travellers | Claude, Anthropic API, Node.js |
+| [StandbyStay](https://standbystay.up.railway.app) | AI Travel Concierge for Standby travellers | Claude, Anthropic API, Node.js |
 | [Sort My Bin](https://sortmybin.lovable.app) | AI-powered waste sorting assistant for Irish households | Lovable, Google Gemini 2.5 Flash, PWA |
 | [7 Mantra meditation](https://play.google.com/store/apps/details?id=com.chakars.meditation.mantra.chant.healing) | Android meditation app — acquired in 2022 and relaunched in 2026 | Android, Claude Code |
 | Property Toolkit | First-time buyer comparison tool | Google Sheets |
