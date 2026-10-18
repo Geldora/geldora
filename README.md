@@ -12,7 +12,7 @@ I'm not a developer — I'm an entrepreneur who transitioned to Product Manageme
 |---|---|---|
 | [StandByStay](https://standbystay.up.railway.app) | AI Travel Concierge for Standby travellers | Claude Code, Anthropic API, Node.js |
 | [Sort My Bin](https://sortmybin.lovable.app) | AI-powered Household Bin sorting assistant for Irish households | Lovable, Google Gemini 2.5 Flash, PWA |
-| [7 Mantra meditation](https://play.google.com/store/apps/details?id=com.chakars.meditation.mantra.chant.healing) | Android meditation app — acquired in 2022 and relaunched in 2026 | Claude Code, Android (Java) |
+| [7 Chakra meditation](https://play.google.com/store/apps/details?id=com.chakars.meditation.mantra.chant.healing) | Android meditation app — acquired in 2022 and relaunched in 2026 | Claude Code, Android (Java) |
 | Property Toolkit | Irish First-time Buyer helper tool | Google Sheets |
 
 ---
